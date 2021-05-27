@@ -71,12 +71,12 @@ nextThree.onclick = function() {
   startOver.hidden = false;
   nextThree.hidden = true;
 
-  document.getElementById('word-one').innerHTML = 'HAP-';
-  document.getElementById('word-two').innerHTML = 'PY';
-  document.getElementById('word-three').innerHTML = 'BIRTH-';
-  document.getElementById('word-four').innerHTML = 'DAY';
-  document.getElementById('word-five').innerHTML = 'TO';
-  document.getElementById('word-six').innerHTML = 'YOU!';
+  document.getElementById('word-one').innerHTML = 'YOU';
+  document.getElementById('word-two').innerHTML = 'ARE';
+  document.getElementById('word-three').innerHTML = 'A';
+  document.getElementById('word-four').innerHTML = 'LAZY';
+  document.getElementById('word-five').innerHTML = 'BAST-';
+  document.getElementById('word-six').innerHTML = 'ERD!';
 
   document.getElementById('letter-note-one').innerHTML = 'F';
   document.getElementById('letter-note-two').innerHTML = 'F';
